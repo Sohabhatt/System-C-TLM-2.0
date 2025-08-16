@@ -1,0 +1,5 @@
+g++ -I/usr/local/systemc-2.3.3/include \
+    -I/usr/local/systemc-2.3.3/include/sysc \
+    -L/usr/local/systemc-2.3.3/lib-linux64 \
+    -o tlm_exe main.cpp \
+    -lsystemc -lm
