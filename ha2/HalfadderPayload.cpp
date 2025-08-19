@@ -1,4 +1,4 @@
-//Struct-based Payload Communication
+//Struct-based TLM Payload Communication
 #ifndef HALF_ADDER_H
 #define HALF_ADDER_H
 
