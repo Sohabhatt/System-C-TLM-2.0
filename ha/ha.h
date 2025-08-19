@@ -1,3 +1,4 @@
+//Array-based TLM Payload Communication
 #ifndef HALF_ADDER_H  // Check if HALF_ADDER_H is not defined to prevent multiple inclusions
 #define HALF_ADDER_H  // Define the macro HALF_ADDER_H 
 
