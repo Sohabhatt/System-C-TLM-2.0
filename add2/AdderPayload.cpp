@@ -1,4 +1,4 @@
-//Struct-based TLM Payload
+//Struct-based TLM Payload Communication
 #ifndef ADDER_H
 #define ADDER_H
 
