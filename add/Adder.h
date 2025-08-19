@@ -1,4 +1,4 @@
-//Array-based Payload Communication
+//Array-based TLM Payload Communication
 #ifndef ADDER_H
 #define ADDER_H
 
